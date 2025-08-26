@@ -1,1 +1,1 @@
-I have a deep interest in statistical tools like time series analysis and forecasting, its my small attempt to write the ARIMA - Auto Regressive Integrated Moving Average from scratch, mainly using only NumPy.
+I have a deep interest in statistical tools like time series analysis and forecasting, its my small attempt to write the ARIMA - Auto Regressive Integrated Moving Average from scratch, mainly using only NumPy and SciPy.
